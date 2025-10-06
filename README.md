@@ -1,4 +1,4 @@
-# Cubmapped Projection Space, Submarine Sim Images
+# Cubemap Projection Space, Submarine Sim Images
 
 ![Full view without submarine](https://github.com/reedbryan/cubemap-projection-submarine-sim/blob/master/Assets/ReadmeMedia/full_view_no_sub.png)
 
